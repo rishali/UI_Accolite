@@ -1,0 +1,43 @@
+ body {
+    background-color: #743B77;
+    width: 56%;
+ }
+
+
+ .semicircled{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    padding: 15px 15px 15px 15px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    float: left;
+    height: 150px;
+    width: 150px;
+    border-radius: 0px 0px 150px 150px;
+    background-color: #F3EB68;
+    margin-top: 42%
+} 
+
+.semicirclet{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    padding: 15px 15px 15px 15px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    float: left;
+    height: 150px;
+    width: 150px;
+    border-radius: 150px 150px 0px 0px;
+    background-color: #F3EB68;
+    margin-top: 17%;
+}
+
+.fix_width650px
+{
+    width: 100%;
+    height: 20px;;
+} 
